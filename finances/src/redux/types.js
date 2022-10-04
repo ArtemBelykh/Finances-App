@@ -1,0 +1,26 @@
+export const GET_SCORES = 'GET_SCORES'
+export const CREATE_SCORES = 'CREATE_SCORES'
+export const GET_ONE_SCORES = 'GET_ONE_SCORES'
+export const DELETE_SCORES = 'DELETE_SCORES'
+
+// records
+
+export const GET_RECORDS = 'GET_RECORDS'
+export const CREATE_RECORDS = 'CREATE_RECORDS'
+export const GET_ONE_RECORDS = 'GET_ONE_RECORDS'
+export const DELETE_RECORDS = 'DELETE_RECORDS'
+
+
+// purposes
+
+export const GET_PURPOSES = 'GET_PURPOSES'
+export const CREATE_PURPOSES = 'CREATE_PURPOSES'
+export const GET_ONE_PURPOSES = 'GET_ONE_PURPOSES'
+export const DELETE_PURPOSES = 'DELETE_PURPOSES'
+
+// budget
+
+export const GET_BUDGET = 'GET_BUDGET'
+export const CREATE_BUDGET = 'CREATE_BUDGET'
+export const GET_ONE_BUDGET = 'GET_ONE_BUDGET'
+export const DELETE_BUDGET = 'DELETE_BUDGET'

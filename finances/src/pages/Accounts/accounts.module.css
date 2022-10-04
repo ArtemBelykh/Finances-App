@@ -1,0 +1,18 @@
+/*.accounts__container {*/
+/*    */
+/*}*/
+
+.accounts__container button {
+    margin-left: 10px;
+}
+
+.accounts__card {
+    background: orange;
+    border-radius: 8px;
+    width: 90%;
+    height: 80px;
+    color: white;
+    line-height: 25px;
+    margin-left: 20px;
+    margin-top: 50px;
+}

@@ -1,0 +1,30 @@
+nav {
+    background: steelblue;
+    width: 250px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    padding: 10px 0px;
+    transition: .5s ease all;
+    cursor: pointer;
+}
+
+nav ul li a {
+    padding: 10px 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+}
+
+nav ul li:hover {
+    transition: .5s ease all;
+    background: #000;
+}
